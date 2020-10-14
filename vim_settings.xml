@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1601352360463">
+      <file name="/Dummy.txt" timestamp="1602150760360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -38,8 +38,10 @@
         <mark key="." line="19" column="58" />
         <mark key="^" line="19" column="58" />
       </file>
-      <file name="$USER_HOME$/Documents/git/ewallet/src/pages/me/Me.js" timestamp="1602149954945">
-        <mark key="[" line="24" column="10" />
+      <file name="$USER_HOME$/Documents/git/ewallet/src/pages/me/Me.js" timestamp="1602645942433">
+        <mark key="[" line="32" column="4" />
+        <mark key="]" line="32" column="4" />
+        <mark key="." line="32" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/git/uniq-app/uniq/src/components/common/RectCellService/index.js" timestamp="1601350647741">
         <mark key="[" line="141" column="28" />
@@ -268,8 +270,8 @@
           <key char="94" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
       <register name="b" type="4">
         <keys>
@@ -1002,7 +1004,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlVcmxcPg==</text>
